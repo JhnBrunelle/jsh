@@ -2,7 +2,7 @@
 
 A custom made Unix Shell
 
-####WARNING
+#### WARNING
 Shell is still under development, and not at a 1.0.0 release. Not considered stable
 
 ## Getting Started
